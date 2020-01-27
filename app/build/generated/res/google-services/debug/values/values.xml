@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">933991926075-tgpt7q9rjk2tn5r4a7rd0pk8v13v6n9i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://techiesmart.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">933991926075</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkt1dkhCr9O-akI3P00PstJPPNfGdWuF8</string>
+    <string name="google_app_id" translatable="false">1:933991926075:android:0ca5ae4f697fb6a70d0f1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkt1dkhCr9O-akI3P00PstJPPNfGdWuF8</string>
+    <string name="google_storage_bucket" translatable="false">techiesmart.appspot.com</string>
+    <string name="project_id" translatable="false">techiesmart</string>
+</resources>
