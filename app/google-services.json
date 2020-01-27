@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933991926075",
+    "firebase_url": "https://techiesmart.firebaseio.com",
+    "project_id": "techiesmart",
+    "storage_bucket": "techiesmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933991926075:android:0ca5ae4f697fb6a70d0f1e",
+        "android_client_info": {
+          "package_name": "in.techiesmart.techiesmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933991926075-mga12cjhbdq80s8pbn8r3vqugo6b0839.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.techiesmart.techiesmart",
+            "certificate_hash": "571211c62b436c1231dbed446bfee5642fac08bc"
+          }
+        },
+        {
+          "client_id": "933991926075-tgpt7q9rjk2tn5r4a7rd0pk8v13v6n9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkt1dkhCr9O-akI3P00PstJPPNfGdWuF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933991926075-tgpt7q9rjk2tn5r4a7rd0pk8v13v6n9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
